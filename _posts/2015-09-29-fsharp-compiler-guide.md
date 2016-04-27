@@ -252,7 +252,7 @@ When formatting TAST objects such as ``TyconRef``s as text, you normally use eit
   adds to the compiled name of a type, and uses the F#-facing name for a type rather than
   the coompiled name for a type (e.g. the name given in a ``CompiledName`` attribute).
 
-* The functions such as ``Tastops.fullTextOfTyconRef``, usedd to show the full, qualified name of an item.
+* The functions such as ``Tastops.fullTextOfTyconRef``, used to show the full, qualified name of an item.
 
 When formatting "info" objects, see the functions in the ``NicePrint`` module.
 
